@@ -17,7 +17,7 @@ Features
 *   Wi-Fi and Shelly configuration stored in `secrets.h`
 *   MIT licensed
 
-Typical Use Case – House Gate in Trumbull, CT
+Typical Use Case – House Gate
 ---------------------------------------------
 
 Shelly relay controls/triggers the gate opener:
