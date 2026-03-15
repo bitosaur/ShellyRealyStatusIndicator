@@ -1,5 +1,3 @@
-  Shelly Gate Status Indicator - README body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 0 20px; color: #24292e; background: #ffffff; } h1, h2, h3 { color: #1a1a1a; } h1 { border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; } code { background: #f6f8fa; padding: 0.2em 0.4em; border-radius: 3px; font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; } pre { background: #f6f8fa; padding: 16px; border-radius: 6px; overflow-x: auto; } pre code { background: transparent; padding: 0; } ul, ol { padding-left: 2em; } a { color: #0366d6; text-decoration: none; } a:hover { text-decoration: underline; } .highlight { background: #fffbdd; padding: 2px 4px; border-radius: 3px; }
-
 Shelly Gate Status Indicator
 ============================
 
